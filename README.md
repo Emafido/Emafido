@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 💻 Front-End Developer | Aspiring Full-Stack Engineer | Mechatronics & Robotics | AI Enthusiast | Blockchain Learner
 --------------------------------------------------------------------------------------------------------------------
 
+boom
 I’m passionate about building technology that merges hardware and software to solve real-world problems.
 
 Currently learning and building web/mobile apps, exploring AI, and diving into blockchain development.
