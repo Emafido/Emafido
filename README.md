@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emafido Emmanuel
 =========================================================================================================================================
 
-💻 Front-End Developer | Aspiring Full-Stack Engineer | Mechatronics & Robotics | AI Enthusiast | Blockchain Learner
+💻 Full-Stack Engineer | Mechatronics & Robotics | AI Enthusiast | Blockchain Learner
 --------------------------------------------------------------------------------------------------------------------
 
 I’m passionate about building technology that merges hardware and software to solve real-world problems.
