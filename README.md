@@ -29,5 +29,5 @@ Currently learning and building web/mobile apps, exploring AI, and diving into b
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Emafido&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emafido&layout=compact&theme=radical)
 
-Leetcode Stats :
+<b>Leetcode Stats</b> :
 [![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=Emafido&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)](https://leetcode-git-card.vercel.app/api/card?username=Emafido&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)
