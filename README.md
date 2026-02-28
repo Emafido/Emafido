@@ -10,7 +10,7 @@ Currently learning and building web/mobile apps, exploring AI, and diving into b
 
 * 🌍  I'm based in Lagos,Nigeria.
 * ✉️  You can contact me at [emmanuelemafido@gmail.com](mailto:emmanuelemafido@gmail.com)
-* 🧠  I'm currently learning NextJs.
+* 🧠  I'm currently learning NextJs and hardware engineering.
 * 👥  I'm looking to collaborate on Interesting projects and gigs.
 * Check out my porfolio at [Emafido](https://emafido-emmanuel.vercel.app/)
 
