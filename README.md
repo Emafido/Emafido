@@ -1,33 +1,112 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Emafido Emmanuel 
-=====================================================================================================================================
+<div align="center">
+  <h1>Emmanuel Emafido</h1>
+  <p>Systems Engineering · UNILAG &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Hackathon Builder</p>
+  <p>Building at the intersection of AI, Web3, and high-performance web — Lagos, Nigeria.</p>
+  
+  <a href="https://linkedin.com/in/emmanuel-emafido">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/EmmanuelEmafido">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+  <a href="https://emafido-emmanuel.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:emmanuelemafido@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-💻 Full Stack Engineer | Embedded Systems | AI Engineer
-----------------------------------------------------------------------------------------------------------------
+---
 
-I’m passionate about building technology that merges hardware and software to solve real-world problems.
+## What I'm building right now
 
-Currently learning and building web/mobile apps, exploring AI, and diving into blockchain development.
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **Chess GM Path** | Personal chess study app with AI move coaching and a Guess the Move core loop | Next.js 15 · Gemini 2.0 Flash · Upstash Redis | 🔨 Active |
+| **CampusFlag** | Campus issue-reporting platform for UNILAG students | Next.js · TypeScript · Supabase | 🔨 PIDEC Finalist |
 
-* 🌍  I'm based in Lagos,Nigeria.
-* ✉️  You can contact me at [emmanuelemafido@gmail.com](mailto:emmanuelemafido@gmail.com)
-* 🧠  I'm currently learning NextJs and hardware engineering.
-* 👥  I'm looking to collaborate on Interesting projects and gigs.
-* Check out my porfolio at [Emafido](https://emafido-emmanuel.vercel.app/)
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+## Tech Stack
 
-### Socials
+**Frontend**
 
-<p align="left"> <a href="https://www.github.com/Emafido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/EmmanuelEmafido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/emmanuel-emafido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/Emafido" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+**Backend & Databases**
 
-<b>My GitHub Stats</b>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Emafido&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Emafido&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Emafido&layout=compact&theme=radical)
+**Web3 & AI**
 
-<b>Leetcode Stats</b> :
-[![LeetCode Stats](https://leetcode-git-card.vercel.app/api/card?username=Emafido&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)](https://leetcode-git-card.vercel.app/api/card?username=Emafido&difficulty=true&activity=true&skills=true&badges=true&submissions=true&beats=true&rank=true)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Move](https://img.shields.io/badge/Move-4A90D9?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=google&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-6FBCF0?style=flat&logoColor=white)
+
+---
+
+## Hackathons & Competitions
+
+- 🤖 **Build with AI Lagos 2026** — Gemini API track *(upcoming)*
+- 🏛️ **PIDEC 1.0** — Leading the Mavericks team · Finale July 4, 2026
+- 🚀 **234 AI Hackathon** — Built **PROVA**, a B2B dispatch rider vetting platform (computer vision · WhatsApp automation · NLP matching)
+- 🤖 **DSN × BCT LLM Agent Challenge** — Built a FastAPI + Groq agent with TF-IDF document retrieval
+- 🌍 **Red Bull Basement** · **Hult Prize**
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Ghost Intel</h3>
+      <p>AI-powered lead enrichment platform with on-chain credits and a gamified referral system</p>
+      <p><code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Solidity</code> <code>Gemini AI</code> <code>Base Sepolia</code></p>
+      <a href="https://ghost-six-chi.vercel.app/">Live</a> · <a href="https://github.com/Emafido/ghost">Code</a>
+    </td>
+    <td width="50%">
+      <h3>Verity</h3>
+      <p>Dual-sided marketplace for elite artisans with AI-driven verification, Trust Score algorithm, and escrow-secured bookings</p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>React 19</code></p>
+      <a href="https://verity-ivory.vercel.app/">Live</a> · <a href="https://github.com/Emafido/verity">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>SuiSecureDrop</h3>
+      <p>Reversible and PIN-protected digital asset transfer protocol on the Sui blockchain</p>
+      <p><code>Move</code> <code>React</code> <code>Sui Blockchain</code></p>
+      <a href="https://suiproject-tau.vercel.app/">Live</a> · <a href="https://github.com/Emafido/Suiproject">Code</a>
+    </td>
+    <td width="50%">
+      <h3>ClinicFlow</h3>
+      <p>Queue and operations management system for clinics and small-to-medium healthcare facilities</p>
+      <p><code>Next.js</code> <code>React</code> <code>Backend Services</code></p>
+      <a href="https://clinicflow-eight.vercel.app/">Live</a> · <a href="https://github.com/Emafido/Horbit">Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emafido&show_icons=true&theme=default&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emafido&layout=compact&theme=default&hide_border=true" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Open to SIWES placements and internship opportunities · Lagos, Nigeria</sub>
+</div>
