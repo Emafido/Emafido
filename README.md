@@ -2,9 +2,7 @@
 
 # Emmanuel Emafido
 
-**Full-Stack Software Engineer · Lagos, Nigeria**
-
-Building high-performance web applications, AI-integrated platforms, and Web3 solutions.
+**Full-Stack Software Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://emafido-emmanuel.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-emafido)
@@ -15,12 +13,14 @@ Building high-performance web applications, AI-integrated platforms, and Web3 so
 
 ---
 
-## 🚀 What I'm shipping right now
+## 👤 About Me
 
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| **Chess GM Path** | Personal chess study app featuring AI move coaching and a continuous "Guess the Move" loop. | Next.js 15, Gemini 2.0 Flash, Upstash Redis | 🔨 Active |
-| **CampusFlag** | Issue-reporting and accountability platform designed for the UNILAG campus. | Next.js, TypeScript, Supabase | 🔨 Active |
+I am Emafido Emmanuel, a Full Stack Software Engineer with 3 years of experience architecting end-to-end digital platforms. I specialize in bridging the gap between seamless user interfaces and highly scalable backend architectures. My technical expertise spans developing interactive frontends with React and Next.js, to building secure, high-performance backends and database systems using Go, Node.js, and PostgreSQL. I focus on writing clean, efficient code to build systems that solve real-world problems.
+
+* **Name:** Emafido Emmanuel
+* **Location:** Lagos, Nigeria
+* **Email:** emmanuelemafido@gmail.com
+* **Work Status:** Available
 
 ---
 
@@ -48,6 +48,7 @@ Building high-performance web applications, AI-integrated platforms, and Web3 so
 
 **Backend & Tooling:**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
